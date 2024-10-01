@@ -1,0 +1,15 @@
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\bin\Debug\net6.0\Practice_1.exe
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\bin\Debug\net6.0\Practice_1.deps.json
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\bin\Debug\net6.0\Practice_1.runtimeconfig.json
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\bin\Debug\net6.0\Practice_1.dll
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\bin\Debug\net6.0\Practice_1.pdb
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\obj\Debug\net6.0\Practice_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\obj\Debug\net6.0\Practice_1.AssemblyInfoInputs.cache
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\obj\Debug\net6.0\Practice_1.AssemblyInfo.cs
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\obj\Debug\net6.0\Practice_1.csproj.CoreCompileInputs.cache
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\obj\Debug\net6.0\Practice_1.sourcelink.json
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\obj\Debug\net6.0\Practice_1.dll
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\obj\Debug\net6.0\refint\Practice_1.dll
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\obj\Debug\net6.0\Practice_1.pdb
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\obj\Debug\net6.0\Practice_1.genruntimeconfig.cache
+G:\C#projects\GEOLAB\Lecture_3\Practice_1\obj\Debug\net6.0\ref\Practice_1.dll

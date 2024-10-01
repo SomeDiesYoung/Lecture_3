@@ -1,0 +1,15 @@
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\bin\Debug\net6.0\Practice_2.exe
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\bin\Debug\net6.0\Practice_2.deps.json
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\bin\Debug\net6.0\Practice_2.runtimeconfig.json
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\bin\Debug\net6.0\Practice_2.dll
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\bin\Debug\net6.0\Practice_2.pdb
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\obj\Debug\net6.0\Practice_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\obj\Debug\net6.0\Practice_2.AssemblyInfoInputs.cache
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\obj\Debug\net6.0\Practice_2.AssemblyInfo.cs
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\obj\Debug\net6.0\Practice_2.csproj.CoreCompileInputs.cache
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\obj\Debug\net6.0\Practice_2.sourcelink.json
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\obj\Debug\net6.0\Practice_2.dll
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\obj\Debug\net6.0\refint\Practice_2.dll
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\obj\Debug\net6.0\Practice_2.pdb
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\obj\Debug\net6.0\Practice_2.genruntimeconfig.cache
+G:\C#projects\GEOLAB\Lecture_3\Practice_2\obj\Debug\net6.0\ref\Practice_2.dll

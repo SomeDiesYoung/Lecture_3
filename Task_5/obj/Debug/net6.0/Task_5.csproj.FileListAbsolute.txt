@@ -1,0 +1,15 @@
+G:\C#projects\GEOLAB\Lecture_3\Task_5\bin\Debug\net6.0\Task_5.exe
+G:\C#projects\GEOLAB\Lecture_3\Task_5\bin\Debug\net6.0\Task_5.deps.json
+G:\C#projects\GEOLAB\Lecture_3\Task_5\bin\Debug\net6.0\Task_5.runtimeconfig.json
+G:\C#projects\GEOLAB\Lecture_3\Task_5\bin\Debug\net6.0\Task_5.dll
+G:\C#projects\GEOLAB\Lecture_3\Task_5\bin\Debug\net6.0\Task_5.pdb
+G:\C#projects\GEOLAB\Lecture_3\Task_5\obj\Debug\net6.0\Task_5.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#projects\GEOLAB\Lecture_3\Task_5\obj\Debug\net6.0\Task_5.AssemblyInfoInputs.cache
+G:\C#projects\GEOLAB\Lecture_3\Task_5\obj\Debug\net6.0\Task_5.AssemblyInfo.cs
+G:\C#projects\GEOLAB\Lecture_3\Task_5\obj\Debug\net6.0\Task_5.csproj.CoreCompileInputs.cache
+G:\C#projects\GEOLAB\Lecture_3\Task_5\obj\Debug\net6.0\Task_5.sourcelink.json
+G:\C#projects\GEOLAB\Lecture_3\Task_5\obj\Debug\net6.0\Task_5.dll
+G:\C#projects\GEOLAB\Lecture_3\Task_5\obj\Debug\net6.0\refint\Task_5.dll
+G:\C#projects\GEOLAB\Lecture_3\Task_5\obj\Debug\net6.0\Task_5.pdb
+G:\C#projects\GEOLAB\Lecture_3\Task_5\obj\Debug\net6.0\Task_5.genruntimeconfig.cache
+G:\C#projects\GEOLAB\Lecture_3\Task_5\obj\Debug\net6.0\ref\Task_5.dll
